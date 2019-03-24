@@ -75,3 +75,13 @@ Saddam
 Saint-Attacker
 
 hammer
+
+# Need to ad: 
+
+[1] More CVE exploits.
+
+[2] Add more scripts.
+
+[3] Add Docker.
+
+[4] Make repository more popular.
