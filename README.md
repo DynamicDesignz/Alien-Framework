@@ -87,7 +87,7 @@ Saint-Attacker
 
 hammer
 
-# Need to ad: 
+# Need to add: 
 
 [1] More CVE exploits.
 
