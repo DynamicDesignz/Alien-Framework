@@ -4,7 +4,9 @@
 
 =========================================================================
 
-Alien-Framework, it is a framework what will help you with pentesting/hacking. Current version is BETA 0.1
+# Version:
+
+BETA V0.1 
 
 # Features
 
@@ -15,3 +17,61 @@ Alien-Framework, it is a framework what will help you with pentesting/hacking. C
 [3] For a kali linux and Parrot os.
 
 [4] Wroted completly on python.
+
+# Tools:
+
+SQLMAP
+
+Nmap
+
+NIKTO
+
+Recon-ng
+
+Zenmap
+
+Golismero
+
+Lynis
+
+jsql
+
+Metasploit
+
+Many-many CVE Exploits
+
+BeEF
+
+Armitage
+
+Ghost-Phisher
+
+Wifite
+
+THC-SSL-DOS
+
+Memcrashed-DDoS-Exploit
+
+UfoNet
+
+Social Engineering ToolKit
+
+SocialFish
+
+Figlet
+
+Lazy Script
+
+cmatrix
+
+toilet
+
+CrashCast-Exploits
+
+Apache2
+
+Saddam
+
+Saint-Attacker
+
+hammer
