@@ -11,6 +11,14 @@
 
 BETA V0.1 
 
+# Install and use:
+
+[1] git clone https://github.com/colorblindpentester/Alien-Framework
+
+[2] cd Alien-Framework
+
+[3] python3 Alien-Framework.py
+
 # Features
 
 [1] Completly automatic. (No requirements.txt)
