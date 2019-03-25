@@ -9,7 +9,7 @@
 
 # Version:
 
-ALFA V.02
+shellmaster - v4
 
 More CVE Exoloits.
 
@@ -60,6 +60,10 @@ CVE-2018-7600
 CVE-2019-6340
 
 CVE-2017-5638
+
+cve-2018-10933
+
+cve-2017-3599
 
 # Tools:
 
@@ -127,4 +131,3 @@ hammer
 
 [3] Add Docker.
 
-[4] Make repository more popular.
