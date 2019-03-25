@@ -11,6 +11,8 @@
 
 ALFA V.02
 
+new: re-desined
+
 # Install and use:
 
 [1] git clone https://github.com/colorblindpentester/Alien-Framework
