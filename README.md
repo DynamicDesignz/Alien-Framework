@@ -1,7 +1,7 @@
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://www.froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers) ![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)
 
 
-# [Alien-Framework](https://github.com/colorblindpentester/Alien-Framework)
+# [Alien-Framework](https://github.com/colorblindpentester/Alien-Framework) ALFA V.02
 
 ![logo](https://github.com/colorblindpentester/Alien-Framework/blob/master/logo/logo1.png)
 
@@ -9,7 +9,7 @@
 
 # Version:
 
-BETA V0.1 
+ALFA V.02
 
 # Install and use:
 
