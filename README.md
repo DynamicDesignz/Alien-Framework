@@ -1,7 +1,7 @@
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://www.froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers) ![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)
 
 
-# [Alien-Framework](https://github.com/colorblindpentester/Alien-Framework) ALFA V.02
+# [Alien-Framework](https://github.com/colorblindpentester/Alien-Framework)
 
 ![logo](https://github.com/colorblindpentester/Alien-Framework/blob/master/logo/logo1.png)
 
@@ -11,7 +11,7 @@
 
 ALFA V.02
 
-new: re-desined
+More CVE Exoloits.
 
 # Install and use:
 
@@ -19,7 +19,7 @@ new: re-desined
 
 [2] cd Alien-Framework
 
-[3] python3 Alien-Framework.py
+[3] python3 alien-framework.py
 
 # Features
 
@@ -30,6 +30,36 @@ new: re-desined
 [3] For a kali linux and Parrot os.
 
 [4] Wroted completly on python.
+
+# Exploits: 
+
+CVE-2016-10033
+
+CVE-2017-3169
+
+CVE-2017-7269
+
+CVE-2017-7269-2
+
+CVE-2017-7679
+
+CVE-2017-8295
+
+CVE-2017-9798
+
+CVE-2017-9805
+
+CVE-2017-10271
+
+CVE-2017-12617
+
+CVE-2017-15412
+
+CVE-2018-7600
+
+CVE-2019-6340
+
+CVE-2017-5638
 
 # Tools:
 
